@@ -1,5 +1,5 @@
 
-# Demo: Quicklink usage in SPA(Single Page Application)
+# Demo: Connection Aware Components usage in React.js
 A demo showing how to use Connection Aware Components in create-react-app based projects.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
