@@ -1,6 +1,6 @@
 import React from 'react';
 
-import ConnectionAwareMedia from './components/ConnectoinAwareMedia';
+import ConnectionAwareMedia from './components/ConnectionAwareMedia';
 import './App.css';
 
 const App = () => {
