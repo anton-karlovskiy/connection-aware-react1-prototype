@@ -1,6 +1,6 @@
 
 # Demo: Connection Aware Components usage in React.js
-A demo showing how to use Connection Aware Components in create-react-app based projects.
+A demo showing how to use Connection Aware Components in React.js projects.
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Glitch Source
